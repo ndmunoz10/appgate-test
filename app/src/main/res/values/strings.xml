@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">appgate-test</string>
+    <string name="action_settings">Dark Mode</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Login</string>
+    <string name="second_fragment_label">Home</string>
+
+    <!-- Login Screen -->
+    <string name="login_username_hint">Username</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_enter">Enter</string>
+    <string name="login_generic_error">There was an error logging in</string>
+    <string name="login_missing_characters_error">Password length has to be greater than 8</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Login Events</string>
+    <string name="home_success_event">Success</string>
+    <string name="home_failure_event">Failure</string>
+
+</resources>
